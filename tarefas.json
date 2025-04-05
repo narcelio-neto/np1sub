@@ -13,5 +13,11 @@
         "descricao": "Entregar projeto",
         "status": "concluída",
         "prazo": "2025-04-02"
-    }
+    },
+    {
+        "descricao": "Revisar código antes da entrega",
+        "status": "pendente",
+        "prazo": "2025-04-08"
+      }
+      
 ]
