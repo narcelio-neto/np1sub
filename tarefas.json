@@ -1,0 +1,17 @@
+[
+    {
+        "descricao": "Estudar Python",
+        "status": "pendente",
+        "prazo": "2025-04-10"
+    },
+    {
+        "descricao": "Fazer exercícios de lógica",
+        "status": "em andamento",
+        "prazo": "2025-04-05"
+    },
+    {
+        "descricao": "Entregar projeto",
+        "status": "concluída",
+        "prazo": "2025-04-02"
+    }
+]
